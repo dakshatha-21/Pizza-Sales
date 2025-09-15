@@ -92,31 +92,6 @@ Brie Carre Pizza, Truffle Mushroom Pizza, etc.
 
 
 
-# 📊 Key Features
-1. Busiest Days and Times
-
-Orders peak during weekends, especially Fridays and Saturdays.
-
-Peak ordering hours are from 12–1 PM and after 5–8 PM.
-
-2. Sales by Category & Size
-
-Classic and Supreme Pizza dominate sales.
-
-Large-size pizzas contribute the most to total revenue.
-
-3. Best & Worst Sellers
-
-Top sellers: Barbecue Chicken Pizza, Classic Deluxe, Hawaiian, and Pepperoni.
-
-Brie Carre Pizza consistently ranks at the bottom.
-
-4. Time-Based Trends
-
-Daily and hourly order patterns are visualized for strategic planning.
-
-Enables focus on peak times to improve staffing and inventory.
-
 
 **Visualizations display**:
 
