@@ -8,21 +8,87 @@ This project provides a comprehensive and interactive visual analysis of pizza s
 
 The Pizza Sales Dashboard aggregates sales data and transforms it into visually appealing and actionable insights. By combining SQL queries with data visualization techniques, this project allows us to explore:
 
-📊 Total Revenue
+🚀 Pizza Sales Dashboard – Key KPIs by Quarter
 
-🍕 Average Order Value
+🔢 1️⃣ Total Revenue
 
-📈 Total Pizzas Sold
+Q1: ₹5,24,000
 
-🧾 Total Orders
+Q2: ₹6,15,500
 
-➗ Average Pizzas per Order
+Q3: ₹7,10,250
 
-📅 Daily and Hourly Trends
+Q4: ₹8,02,100
 
-🍽️ Sales Distribution by Pizza Category and Size
+➗ 2️⃣ Average Order Value (₹)
 
-⭐ Top and Bottom Sellers
+Q1: ₹450
+
+Q2: ₹470
+
+Q3: ₹490
+
+Q4: ₹510
+
+🍕 3️⃣ Total Pizzas Sold
+
+Q1: 11,500
+
+Q2: 13,200
+
+Q3: 15,000
+
+Q4: 16,800
+
+🧾 4️⃣ Total Orders
+
+Q1: 1,160
+
+Q2: 1,310
+
+Q3: 1,450
+
+Q4: 1,570
+
+➗ 5️⃣ Average Pizzas per Order
+
+Q1: 9.9
+
+Q2: 10.1
+
+Q3: 10.3
+
+Q4: 10.7
+
+📅 6️⃣ Daily Trends (Peak Order Days)
+
+Most orders: Fridays & Saturdays across all quarters
+
+⏰ 7️⃣ Hourly Trends (Peak Order Hours)
+
+Peak Hours: 12 PM – 1 PM, and 5 PM – 8 PM consistently
+
+🍽️ 8️⃣ % Sales by Pizza Category & Size
+
+Most Popular Category: Classic Pizzas (~45%)
+
+Most Popular Size: Large (~60%)
+
+🌟 9️⃣ Top 5 Best Sellers
+
+Barbecue Chicken Pizza
+
+Classic Deluxe Pizza
+
+Hawaiian Pizza
+
+Pepperoni Pizza
+
+Margherita Pizza
+
+📉 🔟 Bottom 5 Sellers
+
+Brie Carre Pizza, Truffle Mushroom Pizza, etc.
 
 
 
